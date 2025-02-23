@@ -1,4 +1,4 @@
-learn having funes un videojuego educativo diseñado para enseñar Matematicas 
+learn having es un videojuego educativo diseñado para enseñar Matematicas 
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
 La historia se desarrolla en Mahlandia, un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel 
