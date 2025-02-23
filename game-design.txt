@@ -1,29 +1,30 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA] 
+learn having funes un videojuego educativo diseñado para enseñar Matematicas 
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y 
+La historia se desarrolla en Mahlandia, un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
 juego está diseñado para combinar diversión y educación, permitiendo que los 
 estudiantes adquieran conocimientos de manera natural mientras exploran, 
 resuelven problemas y superan obstáculos. 
 
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE 
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
+El protagonista de esta aventura es Gbi, una niñas de 10 años, rubibiaç, cabello risado y muy curiosa y valiente.
+Gabi esta dispuesta a enseñar y ha sido elegida para una misión 
+única: salvar a mahlandia de una guerra matematica. Con su Habilidad para resolver problemas matematicoa, Gabi 
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
+los jugadores conceptos clave de matematicas. 
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS]
+El jugador podrá resolver todo tipo de problemas matematicos para avanzar deberá cumplir 
+con cada ecuacion propuesta para cada nivel y los desafíos 
+incluirán sumas, restas, multiplicacion y divicion.
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
+Los estudiantes avanzarán mediante ubn sistema de puntuacion. Cada nivel representa concepto educativo 
+matematico como puede ser las tablas de multiplicar,
+y los jugadores recibirán retroalimentación inmediata sobre su 
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante 
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de 
-manera efectiva.
+Los jugadores aprenderán el concepto de suma mediante problemas de sumas. Se reforzará la multiplicación 
+a través de minijuegos interactivos y las evaluaciones se realizarán mediante exámenes de selección múltiple, 
+lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. 
-Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES]
-para garantizar una experiencia de juego fluida y atractiva. 
+El juego se desarrollará usando  y tendrá soporte para computadores, tabletas y celulares. Además,
+se implementarán características como modo offline, habilidades para personalizar la interfaz y tareas 
+colaborativas en línea para asegurar una experiencia de juego fluida y atractiva.
